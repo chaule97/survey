@@ -60,15 +60,26 @@ Authors
 Contributors
 ------------
 
--  Javier Iniesta <javieria@antiun.com>
--  Damien Crier <damien.crier@camptocamp.com>
--  Akim Juillerat <akim.juillerat@camptocamp.com>
--  `Tecnativa <https://www.tecnativa.com>`__:
+-  Javier Iniesta javieria@antiun.com
+
+-  Damien Crier damien.crier@camptocamp.com
+
+-  Akim Juillerat akim.juillerat@camptocamp.com
+
+-  ``Tecnativa <https://www.tecnativa.com>``\ \_:
 
    -  Rafael Blasco
    -  Antonio Espinosa
    -  Ernesto Tejeda
    -  Stefan Ungureanu
+
+-  Chau Le chaulb@trobz.com
+
+Other credits
+-------------
+
+The migration of this module from 16.0 to 17.0 was financially supported
+by Camptocamp
 
 Maintainers
 -----------
